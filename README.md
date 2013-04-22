@@ -1,0 +1,4 @@
+inject
+======
+
+Javascript instance injection
